@@ -7,11 +7,9 @@ int main(void) {
   if (wage>=900.0){
     printf("Você não se qualifica para o aumento.");
     }
-    else
-    {
-      new=wage*1.3;
-      printf("Seu novo salário é R$%.2f", new);
+  else{
+    new=wage*1.3;
+    printf("Seu novo salário é R$%.2f", new);
     }
-  
   return 0;
 }
