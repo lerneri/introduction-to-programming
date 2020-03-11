@@ -26,7 +26,7 @@ if (x==4){
   }
   else {
     w=(y/z);
-  printf("%f", w);
+    printf("%f", w);
   };
 }
   
