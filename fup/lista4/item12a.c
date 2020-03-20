@@ -1,3 +1,5 @@
+//Interpretação A: Mostrar os múltiplo de 3 e de 5, simultaneamente
+
 #include <stdio.h>
 
 int main(void) {
