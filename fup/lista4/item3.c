@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 int main (){
-  int i;
-  // N<=0
-  double N, s, avg;
+  double i, N, s, avg;
   printf("Digite um número inteiro positivo: ");
   scanf("%lf",&N);
   for (s=0, i=1; i<=N; i++){
