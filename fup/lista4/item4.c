@@ -2,7 +2,7 @@
 
 int main(void) {
 int i, n;
-//n<1023
+//n<=1023
 double x;
 x=2;
 scanf("%d",&n);
