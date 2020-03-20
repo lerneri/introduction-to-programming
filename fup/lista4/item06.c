@@ -10,4 +10,5 @@ int main (){
     f = f*i;
   }
   printf("%d! = %.0lf",N,f);
+  return 0;
 }
