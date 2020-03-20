@@ -4,7 +4,7 @@ int main (){
   int N, i;
   // N>=0
   double f;
-  printf("Digite um número inteiro positivo:");
+  printf("Digite um número inteiro não-negativo:");
   scanf("%d",&N);
   for (f=1, i=1; i<=N; i++){
     f = f*i;
