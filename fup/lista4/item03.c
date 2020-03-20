@@ -9,4 +9,5 @@ int main (){
   }
   avg=s/N;
   printf("Média da soma dos %.0lf primeiros inteiros positivos = %.1lf",N,avg);
+  return 0;
 }
