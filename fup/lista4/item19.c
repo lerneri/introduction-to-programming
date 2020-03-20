@@ -10,4 +10,5 @@ int main (){
       printf("%d é divisor de %d\n",i, x);
     }
   }
+  return 0;
 }
