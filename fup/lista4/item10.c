@@ -1,61 +1,6 @@
 //Letícia Rodrigues Neri
-//496518
+
 //Engenharia de Computação - UFC
-
-/*ALGORITMO
-DECLARE voto, ze=0, gal=0, gil=0 NUMERICO
-
-	REPITA 
-	INÍCIO
-		LEIA voto
-
-		SE voto = 1 ENTAO
-		INÍCIO
-			ze++
-
-		FIM
-		SE voto = 2 ENTAO
-		INÍCIO
-			gal++
-
-		FIM
-		SE voto = 3 ENTAO
-		INÍCIO
-			gil++
-
-		FIM
-	FIM
-	ATÉ voto = 0
-
-	SE ze>gal E ze>gil ENTAO
-	INÍCIO
-		ESCREVA Zé é o vencedor, com ze votos
-	FIM
-	SE gal>ze E gal>gil ENTAO
-	INÍCIO
-		ESCREVA Gal é a vencedora, com gal votos 
-	FIM
-	SE gil>ze E gil>gal ENTAO
-	INÍCIO
-		ESCREVA Gil é o vencedor, com gil votos
-	FIM
-	SE ze = gal E gal>gil ENTAO
-	INÍCIO
-		ESCREVA Zé e Gal empataram, com ze votos
-	FIM
-	SE gal = gil E gal>ze ENTAO
-	INÍCIO
-		ESCREVA Gal e Gil empataram, com gal votos
-	FIM
-	SE ze = gil E gil>gal ENTAO
-	INÍCIO
-		ESCREVA Zé e Gil empataram, com gil votos
-	FIM
-	SE ze = gil==gal ENTAO
-	INÍCIO
-		ESCREVA A eleição teve empate com os três candidatos, cada um teve ze votos
-	FIM
-FIM_ALGORITMO.*/ 
 
 #include <stdio.h>
 #include <stdlib.h>
