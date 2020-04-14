@@ -1,16 +1,6 @@
 //Letícia Rodrigues Neri
-//496518
-//Engenharia de Computação - UFC
 
-/*ALGORITMO
-	DECLARE x, i NUMERICO
-	x🡐1
-	PARA i=1 ATÉ i =25 FAÇA
-	INÍCIO
-		x🡐x*2
-	FIM
-	ESCREVA Número de erros esperado pelo aluno em seu último programa: x
-FIM_ALGORITMO.*/ 
+//Engenharia de Computação - UFC
 
 #include <stdio.h>
 
