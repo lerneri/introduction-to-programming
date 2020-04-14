@@ -1,18 +1,6 @@
 //Letícia Rodrigues Neri
-//496518
+
 //Engenharia de Computação - UFC
-
-/*ALGORITMO
-
-    DECLARE i, n, h NUMERICO
-	LEIA n
-	PARA i=1 ATÉ i =n FAÇA
-	INÍCIO
-		h ← h+ 1.0/i 
-	FIM
-	ESCREVA h
-
-FIM_ALGORITMO.*/
 
 #include <stdio.h>
 #include <stdlib.h>
