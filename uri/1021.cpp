@@ -78,10 +78,9 @@ int main (){
     }
     while (C>=1){
         C=C-1;
-    	dois++;
+    	um++;
     }
     
-	
 	cout << cinq << " moeda(s) de R$ 0.50\n";
 	cout << vint << " moeda(s) de R$ 0.25\n";
 	cout << dez << " moeda(s) de R$ 0.10\n";
